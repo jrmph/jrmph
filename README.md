@@ -27,7 +27,9 @@
 </p>
 <h2 align="center"> I Love My GirlFriend ❤️
 </h2>
-<p align="center"> <img src="[golden-bony-solidstatedrive.vercel.app/api/spotify](https://api.fabdl.comundefined)" alt="jrmph" /> </p>
+<div align="center">
+  <img src="https://i.ibb.co/5gbt78NN/IMG-20250920-024921-227.jpg" width="120" />
+</div>
 </details>
 
 
@@ -75,7 +77,7 @@
 - I Can Create: Editing, Graphic Design, Restoration, Caricature, Social Media, Logo, Video Editing
 - My Tools: Photoshop, Kinemaster, Node Video, Filmora, Ps CC, Photopea, Adobe Illustrator, Adobe Animate, Canva, Medibang Paint, Ibis Paint, Vs Code
 - You Can Hire Me for Your Graphics Designs
-- 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
+- 𝗠𝗼𝘀𝘁𝗹𝘆 𝗨𝘀𝗲𝗱
 - ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23E34F26.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp; ![canva](https://img.shields.io/badge/canva-%231572B6.svg?style=for-the-badge&logo=canva&logoColor=white)&nbsp; ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23323330.svg?style=for-the-badge&logo=adobe-llustrator&logoColor=%23F7DF1E)
 
 ## 𝐌𝐎𝐒𝐓𝐋𝐘 𝐔𝐒𝐄𝐃 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄𝐒
