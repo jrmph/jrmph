@@ -27,10 +27,9 @@
 </p>
 <h2 align="center"> I Love My GirlFriend ❤️
 </h2>
-<div align="center">
-  <img src="https://i.ibb.co/5gbt78NN/IMG-20250920-024921-227.jpg" width="120" />
-</div>
-</details>
+<p align="center">
+  <img src="https://i.ibb.co/5gbt78NN/IMG-20250920-024921-227.jpg" width="80" height="80" alt="avatar" style="border-radius:50%;">
+</p></details>
 
 
 </b>
