@@ -25,7 +25,7 @@
 - Available for Freelance Projects
 
 </p>
-<h2 align="center"> ☺️❤️ Now Playing On Spotify ☺️❤️
+<h2 align="center"> I Love My GirlFriend ❤️
 </h2>
 <p align="center"> <img src="[golden-bony-solidstatedrive.vercel.app/api/spotify](https://api.fabdl.comundefined)" alt="jrmph" /> </p>
 </details>
@@ -35,7 +35,7 @@
 </details>
 
 
-# FULL STACK 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
+# 𝐅𝐔𝐋𝐋 𝐒𝐓𝐀𝐂𝐊 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑
 ![Software](https://github-production-user-asset-6210df.s3.amazonaws.com/100421286/272569977-4e649b6c-4c4a-420f-931e-8e7ae94b2106.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251207%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251207T072855Z&X-Amz-Expires=300&X-Amz-Signature=4ce44f8f92a01dde08958d09cb40c9c15f0e4a8fa3885275dc8b6bedf845d983&X-Amz-SignedHeaders=host)
 
 
