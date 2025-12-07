@@ -1,6 +1,8 @@
 # JRMPH - Fullstack Developer
 
-![main](https://github.com/jrmph/jrmph/edit/main/Programmer.gif)
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/jrmph/jrmph/main/Programmer.gif" width="550" alt="Ung Gif kasi is Programmer.gif">
+</div>
 <div align="center">
 
 <h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To My Github </h1>
