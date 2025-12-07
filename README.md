@@ -27,7 +27,7 @@
 </p>
 <h2 align="center"> ☺️❤️ Now Playing On Spotify ☺️❤️
 </h2>
-<p align="center"> <img src="https://kai-spotify.vercel.app/api/spotify" alt="jrmph" /> </p>
+<p align="center"> <img src="[golden-bony-solidstatedrive.vercel.app/api/spotify](https://api.fabdl.comundefined)" alt="jrmph" /> </p>
 </details>
 
 
