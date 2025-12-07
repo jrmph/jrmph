@@ -107,14 +107,16 @@
 </p>
 
 
-![Github Badges](https://github-readme-stats.vercel.app/api?username=jrmph&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmph&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/jrmph/github-readme-stats)<br>
+### User Stats Card (Matrix Radical Theme)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/user?user=jrmph&layout=compact&theme=radical)](https://github.com/KasRoudra/github-stats-card)
+
+### Language Card (Donut Chart in Matrix Green)
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=jrmph&layout=compact&type=donut&theme=radical)](https://github.com/KasRoudra/github-stats-card)
+
 <p align="right">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=jrmph&row=2&column=3&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)]
-  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jrmph&row=2&column=3&theme=radical&margin-w=15&margin-h=15" />
+  </a>
 </p>
 
 </details>
