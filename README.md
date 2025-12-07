@@ -5,7 +5,7 @@
 
 <h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, To My Github </h1>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4B0082&width=470&lines=𝐈'𝐌+𝐉𝐇𝐀𝐌𝐄𝐒+𝐑𝐇𝐎𝐍𝐍𝐈𝐄𝐋𝐋𝐄+𝐌𝐀𝐑𝐓𝐈𝐍;𝐈'𝐌+𝐀+𝐁𝐒𝐈𝐒+𝐒𝐓𝐔𝐃𝐄𝐍𝐓;𝐈'𝐌+𝐀+𝐅𝐔𝐋𝐋𝐒𝐓𝐀𝐂𝐊+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑;𝐈'𝐌+𝐀+𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑;𝐈'𝐌+𝐀+𝐅𝐑𝐄𝐄𝐋𝐀𝐍𝐂𝐄𝐑)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1764FF&width=470&lines=𝐈'𝐌+𝐉𝐇𝐀𝐌𝐄𝐒+𝐑𝐇𝐎𝐍𝐍𝐈𝐄𝐋𝐋𝐄+𝐌𝐀𝐑𝐓𝐈𝐍;𝐈'𝐌+𝐀+𝐁𝐒𝐈𝐒+𝐒𝐓𝐔𝐃𝐄𝐍𝐓;𝐈'𝐌+𝐀+𝐅𝐔𝐋𝐋𝐒𝐓𝐀𝐂𝐊+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑;𝐈'𝐌+𝐀+𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑;𝐈'𝐌+𝐀+𝐅𝐑𝐄𝐄𝐋𝐀𝐍𝐂𝐄𝐑)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=jrmph&style=flat-square)
 
@@ -82,12 +82,11 @@
 
 - ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23E34F26.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp; ![Adobe InDesign](https://img.shields.io/badge/adobe%20inDesign-%231572B6.svg?style=for-the-badge&logo=adobe-inDesign&logoColor=white)&nbsp; ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23323330.svg?style=for-the-badge&logo=adobe-llustrator&logoColor=%23F7DF1E)
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp; ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
--  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![React](https://img.shields.io/badge/react-%2300C4CC.svg?style=for-the-badge&logo=react&logoColor=white)&nbsp; ![Mongodb](https://img.shields.io/badge/mongodb-%23F24E1E.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp; ![Express](https://img.shields.io/badge/express-%23F24E1E.svg?style=for-the-badge&logo=express&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp; ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp; ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp; ![Angular](https://img.shields.io/badge/angular-%23F24E1E.svg?style=for-the-badge&logo=Angular&logoColor=white)
-- ![C#](https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;![CSS](https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=C#%2B%2B&logoColor=white)&nbsp;![Node.js](https://img.shields.io/badge/Node%20.js-0078d7.svg?style=for-the-badge&logo=node.js&logoColor=white)</a>
+- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;![CSS](https://img.shields.io/badge/css-%2300599C.svg?style=for-the-badge&logo=C#%2B%2B&logoColor=white)&nbsp;![Node.js](https://img.shields.io/badge/Node%20.js-0078d7.svg?style=for-the-badge&logo=node.js&logoColor=white)</a>
     </p>
 <br>
 
@@ -96,9 +95,6 @@
 
 - ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)&nbsp; ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 - ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-- ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)&nbsp;
-- ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp; ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 </b>
@@ -117,7 +113,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrmph&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/jrmph/github-readme-stats)<br>
 <p align="right">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=jrmph&row=2&column=3&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=jrmph&row=2&column=3&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)]
   
 </p>
 
@@ -134,31 +130,26 @@
 
 <p align = 'right'>
 </p>
-<img src="https://github.com/mrjuice01/mrjuice01/assets/100421286/9e084670-c593-4923-95cf-2c498487373f"width="800"> </a>
+<img src="https://github.com/jrmph/jrmph/nc.gif"width="800"> </a>
     </p>
 
 <div align="left">
-  <a href="mailto:mrjuice017@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
+  <a href="mailto:jhames.martin.dev@gmail.com?subject=Want%20to%20contact%20you%20from%20github" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/jhames.rhonnielle.martin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
   </a>
-  <a href="https://instagram.com/mr_juice7" target="_blank">
+  <a href="https://instagram.com/jhamesrhonnielle" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mrjuiceofc/" target="_blank">
+  <a href="https://www.linkedin.com/in/jhames-martin-87b00630a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://wa.me/+263780699988" target="_blank">
+  <a href="https://wa.me/+639947197500" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
   </a>
-  <a href="https://twitter.com/mr_juice7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
-  </a>
   <a href="https://www.facebook.com/jhames.rhonnielle.martin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo" />
-  </a>&nbsp;&nbsp;
 
 #### If you have any queries, suggestions or you want to hire me, you can contact me and I will be happy to respond. 
 <br>
